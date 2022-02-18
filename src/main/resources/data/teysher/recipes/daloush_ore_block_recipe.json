@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "teysher:daloush"
+    },
+    "1": {
+      "item": "teysher:daloush"
+    },
+    "2": {
+      "item": "teysher:daloush"
+    },
+    "3": {
+      "item": "teysher:daloush"
+    },
+    "4": {
+      "item": "teysher:daloush"
+    },
+    "5": {
+      "item": "teysher:daloush"
+    },
+    "6": {
+      "item": "teysher:daloush"
+    },
+    "7": {
+      "item": "teysher:daloush"
+    },
+    "8": {
+      "item": "teysher:daloush"
+    }
+  },
+  "result": {
+    "item": "teysher:daloush_block",
+    "count": 1
+  }
+}

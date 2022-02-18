@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "teysher:blocks/daloush_ore_block",
+    "particle": "teysher:blocks/daloush_ore_block"
+  }
+}

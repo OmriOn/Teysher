@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="teysher"
+version="1.0.0"
+displayName="Teysher"
+credits="Made by OmriOn and MiningSword"
+displayURL="https://mcreator.net"
+authors="OmriOn, MiningSword"
+description='''
+Teysher is a Minecraft mod that adds various ores and items. (for example, the Daloush Ore, Tools, and Armor)
+'''
+
+[[dependencies.teysher]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

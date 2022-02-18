@@ -1,0 +1,74 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "daloush_head",
+    "enableBody": true,
+    "textureBody": "daloush_body",
+    "enableLeggings": true,
+    "textureLeggings": "daloush_leggings",
+    "enableBoots": true,
+    "textureBoots": "daloush_boots",
+    "onHelmetTick": {
+      "name": "DaloushHoeToolInHandTick"
+    },
+    "onBodyTick": {
+      "name": "DaloushArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "DaloushArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "DaloushArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "daloush",
+    "helmetName": "Daloush Helmet",
+    "bodyName": "Daloush Chestplate",
+    "leggingsName": "Daloush Leggings",
+    "bootsName": "Daloush Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 46,
+    "damageValueHelmet": 20,
+    "damageValueBody": 70,
+    "damageValueLeggings": 50,
+    "damageValueBoots": 20,
+    "enchantability": 55,
+    "toughness": 3.7,
+    "knockbackResistance": 0.7,
+    "equipSound": {
+      "value": "block.ladder.step"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Daloush"
+      }
+    ]
+  }
+}

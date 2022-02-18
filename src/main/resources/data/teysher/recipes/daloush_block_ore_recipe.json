@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "teysher:daloush_block"
+    }
+  ],
+  "result": {
+    "item": "teysher:daloush",
+    "count": 9
+  }
+}

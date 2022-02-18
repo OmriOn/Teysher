@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "teysher:daloush"
+    },
+    "1": {
+      "item": "teysher:daloush"
+    },
+    "2": {
+      "item": "teysher:daloush"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "teysher:daloush_pickaxe",
+    "count": 1
+  }
+}
